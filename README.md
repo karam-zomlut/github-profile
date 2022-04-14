@@ -63,7 +63,8 @@ const karam = {
 
 <h2 style="font-weight: 500; margin-top: 2rem">Languages & Tools:</h2>
 
-<img src="./images/html.svg" height="35px" />
+<p>
+    <img src="./images/html.svg" height="35px" />
 <img src="./images/css.svg" height="35px" />
 <img src="./images/csharp.svg" height="35px" />
 <img src="./images/javascript.svg" height="35px" />
@@ -85,5 +86,6 @@ const karam = {
 <img src="./images/bootstrap.svg" height="35px" />
 <img src="./images/babel.svg" height="35px" />
 <img src="./images/chartsjs.svg" height="35px" />
+</p>
 
 ---
