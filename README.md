@@ -94,8 +94,15 @@ const karam = {
 <h2 style="font-weight: 500; margin-top: 2rem">Activity & Statistics:</h2>
 
 <div align="center">
+<ul align="left">
+<li><b>Activity</b></li>
+</ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karam-zomlut&show_icons=true&theme=radical)
+
+<ul align="left">
+<li><b>Languages</b></li>
+</ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
