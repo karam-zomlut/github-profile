@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: 600"> 
     Hello there 👋
     <br />
-    Karam Zomlot here
+    I'm Karam Zomlot
 </h1>
 
 <h1 align="center" style="display: flex; justify-content: center; align-items: center;">
