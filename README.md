@@ -48,25 +48,15 @@ const karam = {
 
 <h2 style="font-weight: 500; margin-top: 2rem">Skills:</h2>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <div>
-        <p>⭐ HTML, HTML5</p>
-        <p>⭐ CSS, CSS3</p>
-        <p>⭐ SCSS</p>
-        <p>⭐ Bootstrap 4 & 5</p>
-        <p>⭐ JQuery</p>
-        <p>⭐ HTML DOM</p>
-        <p>⭐ Git & GitHub</p>
-    </div>
-    <div>
-        <p>⭐ React Js</p>
-        <p>⭐ Node Js</p>
-        <p>⭐ Express Js</p>
-        <p>⭐ PostgreSQL</p>
-        <p>⭐ JSON & Ajax</p>
-        <p>⭐ Web API</p>
-        <p>⭐ UX/UI</p>
-    </div>
-</div>
+```js
+- ⭐ 'HTML, HTML5'                                  - ⭐ 'CSS, CSS3'
+- ⭐ 'SCSS'                                         - ⭐ 'Bootstrap 4 & 5'
+- ⭐ 'JQuery'                                       - ⭐ 'HTML DOM'
+- ⭐ 'Git & GitHub'                                 - ⭐ 'React Js'
+- ⭐ 'Node Js'                                      - ⭐ 'Express Js'
+- ⭐ 'PostgreSQL'                                   - ⭐ 'JSON & Ajax'
+- ⭐ 'Web API'                                      - ⭐ 'UX/UI'
+
+```
 
 ---
