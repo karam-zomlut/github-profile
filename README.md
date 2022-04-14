@@ -93,7 +93,7 @@ const karam = {
 
 <h2 style="font-weight: 500; margin-top: 2rem">Activity & Statistics:</h2>
 
-<div align="center">
+<div align="left">
 <ul align="left">
 <li><b>Activity</b></li>
 </ul>
