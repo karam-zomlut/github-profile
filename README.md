@@ -93,7 +93,7 @@ const karam = {
 
 <h2 style="font-weight: 500; margin-top: 2rem">Activity & Statistics:</h2>
 
-<div align="left">
+<div align="center">
 <ul align="left">
 <li><b>Activity</b></li>
 </ul>
@@ -108,3 +108,19 @@ const karam = {
 
 
 </div>
+
+---
+
+<h2 style="font-weight: 500; margin-top: 2rem">Contact Me:</h2>
+
+<p align="center">
+<a href="https://twitter.com/dev_karamz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_karamz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-karamz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-karamz" height="30" width="40" /></a>
+<a href="https://fb.com/karam.zomlut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karam.zomlut" height="30" width="40" /></a>
+<a href="https://instagram.com/dev.karamz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.karamz" height="30" width="40" /></a>
+<a href="https://www.behance.net/karamzomlut1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="karamzomlut1" height="30" width="40" /></a>
+</p>
+
+---
+
+<h2 style="font-weight: 500; margin-top: 2rem">Freelance Platforms:</h2>
