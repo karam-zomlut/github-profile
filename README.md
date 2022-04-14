@@ -49,13 +49,13 @@ const karam = {
 <h2 style="font-weight: 500; margin-top: 2rem">Skills:</h2>
 
 ```js
-- ⭐ 'HTML, HTML5'                                  - ⭐ 'CSS, CSS3'
-- ⭐ 'SCSS'                                         - ⭐ 'Bootstrap 4 & 5'
-- ⭐ 'JQuery'                                       - ⭐ 'HTML DOM'
-- ⭐ 'Git & GitHub'                                 - ⭐ 'React Js'
-- ⭐ 'Node Js'                                      - ⭐ 'Express Js'
-- ⭐ 'PostgreSQL'                                   - ⭐ 'JSON & Ajax'
-- ⭐ 'Web API'                                      - ⭐ 'UX/UI'
+- ⭐ 'HTML, HTML5'                                  - ⭐ 'React Js'
+- ⭐ 'CSS, CSS3'                                    - ⭐ 'Node Js'
+- ⭐ 'Bootstrap 4 & 5'                              - ⭐ 'Express Js'
+- ⭐ 'JavaScript'                                   - ⭐ 'PostgreSQL'
+- ⭐ 'JQuery'                                       - ⭐ 'Git & GitHub'
+- ⭐ 'SCSS'                                         - ⭐ 'JSON & Ajax'
+- ⭐ 'UX/UI'                                        - ⭐ 'Web API'
 
 ```
 
