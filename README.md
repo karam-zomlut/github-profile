@@ -50,7 +50,10 @@ const karam = {
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
     <div>
-        <p>⭐ HTML, HTML5                   ⭐ CSS, CSS3</p>
+        <p>
+            <span>⭐ HTML, HTML5</span> 
+            <span style="margin-left: 5rem;">⭐ HTML, HTML5</span>
+        </p>
         <p>⭐ CSS, CSS3</p>
         <p>⭐ SCSS</p>
         <p>⭐ Bootstrap 4 & 5</p>
