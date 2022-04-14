@@ -86,6 +86,7 @@ const karam = {
 <img src="./images/bootstrap.svg" height="35px" />
 <img src="./images/babel.svg" height="35px" />
 <img src="./images/chartsjs.svg" height="35px" />
+<img src="./images/linux.svg" height="35px" />
 </p>
 
 ---
