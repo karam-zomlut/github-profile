@@ -18,34 +18,6 @@
 
 ---
 
-<!-- ```js
-const karam = {
-    full_name: 'Karam Hani Juda Zomlot',
-    job_title: 'JavaScript Web Developer',
-    skills: [
-        'HTML, HTML5',
-        'CSS, CSS3',
-        'JavaScript',
-        'Bootstrap 4 & 5',
-        'Node js',
-        'Express js',
-        'PostgreSQL',
-        'React js',
-        'Git & GitHub',
-        'NPM',
-        'UX/UI'
-    ],
-    tools: [
-        'Visual Studio',
-        'VS Code',
-        'Microsoft SQL Server',
-        'Postman',
-        'Adobe XD',
-        'Adobe Photoshop'
-    ]
-}
-``` -->
-
 <h2 style="font-weight: 500; margin-top: 2rem">Skills:</h2>
 
 ```js
@@ -118,7 +90,7 @@ const karam = {
 <a href="https://linkedin.com/in/dev-karamz" target="blank"><img align="center" src="./images/linkedin.svg" alt="dev-karamz" height="30" width="40" /></a>
 <a href="https://www.behance.net/karamzomlut1" target="blank"><img align="center" src="./images/behance.svg" alt="karamzomlut1" height="30" width="40" /></a>
 <a href="https://wa.me/message/QZD4IZ74F6XXJ1" target="blank"><img align="center" src="./images/whatsapp.svg" alt="karamzomlut1" height="30" width="40" /></a>
-<a href="tel:+972567882268" target="blank"><img align="center" src="./images/phone.svg" alt="karamzomlut1" height="30" width="40" /></a>
+<!-- <a href="https://tel:+972567882268" target="blank"><img align="center" src="./images/phone.svg" alt="karamzomlut1" height="30" width="40" /></a> -->
 <a href="https://fb.com/karam.zomlut" target="blank"><img align="center" src="./images/facebook.svg" alt="karam.zomlut" height="30" width="40" /></a>
 <a href="https://instagram.com/dev.karamz" target="blank"><img align="center" src="./images/instagram.svg" alt="dev.karamz" height="30" width="40" /></a>
 </p>
