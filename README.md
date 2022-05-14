@@ -76,7 +76,7 @@
 <li><b>Streak Stats</b></li>
 </ul>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karam-zomlut&theme=react)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karam-zomlut&theme=react)
     
 <ul align="left">
 <li><b>Languages</b></li>
