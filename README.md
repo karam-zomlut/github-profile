@@ -70,8 +70,14 @@
 <li><b>Activity</b></li>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karam-zomlut&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karam-zomlut&show_icons=true&theme=react)
 
+<ul align="left">
+<li><b>Streak Stats</b></li>
+</ul>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karam-zomlut&theme=react)](https://git.io/streak-stats)
+    
 <ul align="left">
 <li><b>Languages</b></li>
 </ul>
