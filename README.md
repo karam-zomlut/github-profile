@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center" style="display: flex; justify-content: center; align-items: center;">
-    JavaScript Web Developer
+    Full Stack JavaScript Developer
     <img src="./images/js.png" width="30" style="margin-left: 1rem;" />
 </h1>
 
