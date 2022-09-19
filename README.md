@@ -10,8 +10,7 @@
 </h1>
 
 <h2 align="center" style="display: flex; justify-content: center; align-items: center;">
-    Internship With 
-    <img src="" style="margin-left: 1rem;" />
+    <img src="./images/google.png"/>
 </h2>
 
 <div>
