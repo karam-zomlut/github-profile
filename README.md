@@ -6,13 +6,13 @@
 
 <h1 align="center" style="display: flex; justify-content: center; align-items: center;">
     Full Stack JavaScript Developer
-    <img src="./images/js.png />
+    <img src="./images/js.png" width="30" style="margin-left: 1rem;" />
 </h1>
 
-<h1 align="center" style="display: flex; justify-content: center; align-items: center;">
+<h2 align="center" style="display: flex; justify-content: center; align-items: center;">
     Internship With 
-    <img src="./images/js.png" style="margin-left: 1rem;" />
-</h1>
+    <img src="" style="margin-left: 1rem;" />
+</h2>
 
 <div>
     <h2 style="font-weight: 500; margin-top: 2rem">About Me:</h2>
