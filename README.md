@@ -6,7 +6,12 @@
 
 <h1 align="center" style="display: flex; justify-content: center; align-items: center;">
     Full Stack JavaScript Developer
-    <img src="./images/js.png" width="30" style="margin-left: 1rem;" />
+    <img src="./images/js.png />
+</h1>
+
+<h1 align="center" style="display: flex; justify-content: center; align-items: center;">
+    Internship With 
+    <img src="./images/js.png" style="margin-left: 1rem;" />
 </h1>
 
 <div>
