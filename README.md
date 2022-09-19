@@ -10,7 +10,7 @@
 </h1>
 
 <h2 align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img src="./images/google.png"/>
+    <img src="./images/intern.png"/>
 </h2>
 
 <div>
