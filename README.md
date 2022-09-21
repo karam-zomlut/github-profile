@@ -11,7 +11,7 @@
 
 <h2 align="center" style="font-size: 40px;">
     Finished Internship at <br />
-    <img src="./images/intern.png"/>
+    <img src="./images/googl.png"/>
 </h2>
 
 <div>
