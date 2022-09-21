@@ -26,10 +26,10 @@
 <h2 style="font-weight: 500; margin-top: 2rem">Skills:</h2>
 
 ```js
-- ⭐ 'HTML, HTML5'             - ⭐ 'React Js'
-- ⭐ 'CSS, CSS3'               - ⭐ 'Node Js'
-- ⭐ 'Bootstrap 4 & 5'         - ⭐ 'Express Js'
-- ⭐ 'JavaScript'              - ⭐ 'PostgreSQL'
+- ⭐ 'HTML, HTML5'             - ⭐ 'React Js'            - ⭐ 'React Native'
+- ⭐ 'CSS, CSS3'               - ⭐ 'Node Js'             - ⭐ 'React-Query'
+- ⭐ 'Bootstrap 4 & 5'         - ⭐ 'Express Js'          - ⭐ 'Redux'
+- ⭐ 'JavaScript'              - ⭐ 'PostgreSQL'          - ⭐ 'Postman'
 - ⭐ 'JQuery'                  - ⭐ 'Git & GitHub'
 - ⭐ 'SCSS'                    - ⭐ 'JSON & Ajax'
 - ⭐ 'UX/UI'                   - ⭐ 'Web API'
