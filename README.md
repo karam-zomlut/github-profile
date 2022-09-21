@@ -9,7 +9,8 @@
     <img src="./images/js.png" width="30" style="margin-left: 1rem;" />
 </h1>
 
-<h2 align="center" style="display: flex; justify-content: center; align-items: center;">
+<h2 align="center" style="font-size: 40px;">
+    Finished Internship at <br />
     <img src="./images/intern.png"/>
 </h2>
 
