@@ -75,7 +75,7 @@
 <li><b>Activity</b></li>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karam-zomlut&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=karam-zomlut&show_icons=true&theme=react)
 
 <ul align="left">
 <li><b>Streak Stats</b></li>
@@ -87,7 +87,7 @@
 <li><b>Languages</b></li>
 </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karam-zomlut&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karam-zomlut&layout=compact&theme=react)
 
 
 </div>
