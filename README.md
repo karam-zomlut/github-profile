@@ -86,19 +86,19 @@
 <li><b>Activity</b></li>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=karam-zomlut&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=karamzomlot&show_icons=true&theme=react)
 
 <ul align="left">
 <li><b>Streak Stats</b></li>
 </ul>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karam-zomlut&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karamzomlot&theme=react)
 
 <ul align="left">
 <li><b>Languages</b></li>
 </ul>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karam-zomlut&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karamzomlot&layout=compact&theme=react)
 
 </div>
 
@@ -118,6 +118,6 @@
 
 ---
 
-<img src="https://img.shields.io/github/followers/karam-zomlut?label=Followers" /> <img src="https://img.shields.io/github/stars/karam-zomlut?label=Stars" /> <img src="https://komarev.com/ghpvc/?username=karam-zomlut&label=Profile Views" />
+<img src="https://img.shields.io/github/followers/karamzomlot?label=Followers" /> <img src="https://img.shields.io/github/stars/karamzomlot=Stars" /> <img src="https://komarev.com/ghpvc/?username=karamzomlot&label=Profile Views" />
 
 
