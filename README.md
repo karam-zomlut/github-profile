@@ -118,6 +118,6 @@
 
 ---
 
-<img src="https://img.shields.io/github/followers/karamzomlot?label=Followers" /> <img src="https://img.shields.io/github/stars/karamzomlot=Stars" /> <img src="https://komarev.com/ghpvc/?username=karamzomlot&label=Profile Views" />
+<img src="https://img.shields.io/github/followers/karamzomlot?label=Followers" /> <img src="https://img.shields.io/github/stars/karamzomlot?label=Stars" /> <img src="https://komarev.com/ghpvc/?username=karamzomlot&label=Profile Views" />
 
 
